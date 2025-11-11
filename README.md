@@ -1,2 +1,2 @@
 # Ssendikwanawa_Emmanuel
-Epidemiologist &amp; Research Innovator: Transforming Disease Surveillance Data into Real-Time Epidemiological Intelligence via Outbreak Analytics &amp; Evidence-Based Response. Explore my reproducible R & Python codes for Epidemic preparedness, Response & Global Public Health Research Innovation on link (https://github.com/Ssendikwanawa/EpiDataLab_Click_Here) 
+Epidemiologist & Research Innovator: Transforming Disease Surveillance Data Into Real-Time Epidemiological Intelligence Via Outbreak Analytics & Evidence-Based Response. Explore My Reproducible R & Python Codes For Epidemic Preparedness, Response & Global Public Health Research Innovation On Link (https://github.com/Ssendikwanawa/EpiDataLab_Click_Here) 
